@@ -1,8 +1,8 @@
 ## Olá! Sou Jorge Luiz 😆<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="25px">
 <div>
   <a href="https://github.com/odevjorge">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odevjorge&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odevjorge&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odevjorge&show_icons=true&&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odevjorge&layout=compact&langs_count=7&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff"/>
   </a>
 </div>
 <br>
