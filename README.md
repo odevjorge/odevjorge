@@ -1,5 +1,5 @@
 
-## Olá! Sou Jorge Luiz 😆<a>https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif</a>
+## Olá! Sou Jorge Luiz 😆<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 <div align="center">
   <div style="display: inline-block;">
     <a href="https://github.com/odevjorge">
