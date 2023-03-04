@@ -1,9 +1,18 @@
 ![Banner](assets/banner.png)
 
 ## a little about me 
-<div align="justify">
+<div align="justify" >
+<p style="margin-bottom: 2em";>
 Atualmente graduando em Sistemas de Informações pela <a href="https://unifapce.edu.br/">UNIFAP-CE</a>, sou apaixonado por tecnologia desde criança e me encontrei na programação, sou desenvolvedor backend utilizando principal python, mas também possuo conhecimento de frontend, banco de dados e organização e desenvolvimento de projetos.
 Gosto de experimentar coisas novas, adoro concluir desafios estando sempre a procura de me desenvolver pessoal e profissionalmente.
+</p>
+<a style="white-space: nowrap;" href="https://github.com/odevjorge">
+    <div align="center">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=odevjorge&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odevjorge&theme=github_dark&layout=compact"/>
+    </div>
+</a>
+
 </div>
 
 ## studying now
@@ -45,3 +54,5 @@ Gosto de experimentar coisas novas, adoro concluir desafios estando sempre a pro
 <a href="https://discord.com/users/1018626496413310996" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href = "mailto:jorge.luiz.g217@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/odevjorge/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+![Snake](https://github.com/odevjorge/odevjorge/blob/output/github-contribution-grid-snake.svg)
