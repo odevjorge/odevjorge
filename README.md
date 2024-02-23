@@ -55,4 +55,4 @@ Gosto de experimentar coisas novas, adoro concluir desafios, estando sempre a pr
 <a href = "mailto:jorge.luiz.g217@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/odevjorge/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Snake](https://github.com/odevjorge/odevjorge/blob/output/github-contribution-grid-snake.svg)
+![Snake]([https://github.com/odevjorge/odevjorge/blob/output/github-contribution-grid-snake.svg](https://github.com/odevjorge/odevjorge/blob/output/github-contribution-grid-snake-dark.svg)https://github.com/odevjorge/odevjorge/blob/output/github-contribution-grid-snake-dark.svg)
