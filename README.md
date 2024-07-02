@@ -3,8 +3,8 @@
 ## a little about me 
 <div align="justify" >
 <p style="margin-bottom: 2em";>
-Atualmente graduando em Sistemas de Informações pela <a href="https://unifapce.edu.br/">UNIFAP-CE</a>, sou apaixonado por tecnologia desde criança e me encontrei na programação, sou desenvolvedor backend utilizando principalmente python, mas também possuo conhecimento de frontend, banco de dados e organização e desenvolvimento de projetos.
-Gosto de experimentar coisas novas, adoro concluir desafios, estando sempre a procura de me desenvolver pessoal e profissionalmente.
+Atualmente graduando em Sistemas de Informações pela <a href="https://unifapce.edu.br/">UNIFAP-CE</a>, sou apaixonado por tecnologia desde criança e encontrei o que queria fazer na programação, sou desenvolvedor backend utilizando principalmente python, mas também possuo conhecimento de frontend, banco de dados e organização e desenvolvimento de projetos.
+Gosto de experimentar coisas novas, concluir desafios, sempre a procura de me desenvolver pessoal e profissionalmente.
 </p>
 <a style="white-space: nowrap;" href="https://github.com/odevjorge">
     <div align="center">
