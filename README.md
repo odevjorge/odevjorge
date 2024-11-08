@@ -8,8 +8,8 @@ Gosto de experimentar coisas novas, concluir desafios, sempre a procura de me de
 </p>
 <a style="white-space: nowrap;" href="https://github.com/odevjorge">
     <div align="center">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=odevjorge&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true"/>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odevjorge&theme=github_dark&layout=compact"/>
+        <img height="150em" src="https://odevjorge-github-stats.vercel.app/api?username=odevjorge&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true"/>
+        <img height="150em" src="https://odevjorge-github-stats.vercel.app/api/top-langs/?username=odevjorge&theme=github_dark&layout=compact"/>
     </div>
 </a>
 
