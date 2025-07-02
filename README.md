@@ -3,9 +3,9 @@
 ## a little about me 
 <div align="justify" >
 <p style="margin-bottom: 2em";>
-Atualmente graduando em Sistemas de Informações pela <a href="https://unifapce.edu.br/">UNIFAP-CE</a>, sou apaixonado por tecnologia desde criança e encontrei o que queria fazer na programação, sou desenvolvedor backend utilizando principalmente python, mas também possuo conhecimento de frontend, banco de dados e organização e desenvolvimento de projetos.
-Gosto de experimentar coisas novas, concluir desafios, sempre a procura de me desenvolver pessoal e profissionalmente.
+Desenvolvedor Back-end graduado em **Sistemas de Informação**, com experiência no desenvolvimento e manutenção de sistemas. Possuo conhecimento sólido em Python, Django, REST APIs, bancos de dados relacionais, infraestrutura e sistemas operacionais. Tenho facilidade de comunicação, trabalho em equipe e foco em resolução de problemas. Meu objetivo é atuar no desenvolvimento back-end com foco em qualidade, eficiência e evolução contínua, contribuindo para os resultados da empresa e para meu aprimoramento profissional.
 </p>
+
 <a style="white-space: nowrap;" href="https://github.com/odevjorge">
     <div align="center">
         <img height="150em" src="https://odevjorge-github-stats.vercel.app/api?username=odevjorge&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true"/>
@@ -14,13 +14,6 @@ Gosto de experimentar coisas novas, concluir desafios, sempre a procura de me de
 </a>
 
 </div>
-
-## studying now
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## knowledge in 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,6 +25,11 @@ Gosto de experimentar coisas novas, concluir desafios, sempre a procura de me de
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
