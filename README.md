@@ -3,7 +3,7 @@
 ## a little about me 
 <div align="justify" >
 <p style="margin-bottom: 2em";>
-Desenvolvedor Back-end graduado em **Sistemas de Informação**, com experiência no desenvolvimento e manutenção de sistemas. Possuo conhecimento sólido em Python, Django, REST APIs, bancos de dados relacionais, infraestrutura e sistemas operacionais. Tenho facilidade de comunicação, trabalho em equipe e foco em resolução de problemas. Meu objetivo é atuar no desenvolvimento back-end com foco em qualidade, eficiência e evolução contínua, contribuindo para os resultados da empresa e para meu aprimoramento profissional.
+Desenvolvedor Back-end graduado em <strong>Sistemas de Informação</strong>, com experiência no desenvolvimento e manutenção de sistemas. Possuo conhecimento sólido em Python, Django, REST APIs, bancos de dados relacionais, infraestrutura e sistemas operacionais. Tenho facilidade de comunicação, trabalho em equipe e foco em resolução de problemas. Meu objetivo é atuar no desenvolvimento back-end com foco em qualidade, eficiência e evolução contínua, contribuindo para os resultados da empresa e para meu aprimoramento profissional.
 </p>
 
 <a style="white-space: nowrap;" href="https://github.com/odevjorge">
